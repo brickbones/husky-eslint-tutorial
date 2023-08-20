@@ -1,6 +1,6 @@
 # Tutorial on how to setup Husky with esLint
 
-Watch the [YouTube video](https://youtube.com) and follow the steps below:
+Watch the [YouTube video](https://youtu.be/AWN_n5XZe80) and follow the steps below:
 
 1.  Install esLint:
     ```
